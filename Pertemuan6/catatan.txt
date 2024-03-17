@@ -1,0 +1,8 @@
+1. Pada Program D-Lemas seorang Admin dapat menginput Data Siswa.
+2. Buatlah tampilan form input data siswa di point 1 meliputi input nama siswa, NIS, kelas,
+tanggal lahir, tempat lahir, alamat, jenis kelamin menggunakan radio button, agama
+berupa pilihan combo/select Islam, Kristen, Katolik, Budha, Hindu, Protestan,
+Khonghucu.
+3. Buatlah sebuah controller dan model untuk memproses inputan form sehingga hasilnya di
+tampilkan ke file view yang berisi hasil dari proses submit dari form input.
+4. Pada tampilan hasil, buatlah link untuk kembali menuju file input form pada point 2
